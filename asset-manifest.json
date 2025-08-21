@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/pet_Hospital/static/css/main.31785657.css",
-    "main.js": "/pet_Hospital/static/js/main.7e573f06.js",
-    "static/css/427.eec8cf0c.chunk.css": "/pet_Hospital/static/css/427.eec8cf0c.chunk.css",
-    "static/js/427.9d2e295b.chunk.js": "/pet_Hospital/static/js/427.9d2e295b.chunk.js",
+    "main.css": "/pet_Hospital/static/css/main.0ccc96f2.css",
+    "main.js": "/pet_Hospital/static/js/main.4330eef4.js",
+    "static/css/856.b802903a.chunk.css": "/pet_Hospital/static/css/856.b802903a.chunk.css",
+    "static/js/856.a815c984.chunk.js": "/pet_Hospital/static/js/856.a815c984.chunk.js",
     "static/js/818.1b4056f2.chunk.js": "/pet_Hospital/static/js/818.1b4056f2.chunk.js",
     "static/js/767.17ec2d34.chunk.js": "/pet_Hospital/static/js/767.17ec2d34.chunk.js",
     "static/js/72.82955225.chunk.js": "/pet_Hospital/static/js/72.82955225.chunk.js",
     "static/js/754.5e6c3c5f.chunk.js": "/pet_Hospital/static/js/754.5e6c3c5f.chunk.js",
     "static/js/595.0b4d6f76.chunk.js": "/pet_Hospital/static/js/595.0b4d6f76.chunk.js",
     "index.html": "/pet_Hospital/index.html",
-    "main.31785657.css.map": "/pet_Hospital/static/css/main.31785657.css.map",
-    "main.7e573f06.js.map": "/pet_Hospital/static/js/main.7e573f06.js.map",
-    "427.eec8cf0c.chunk.css.map": "/pet_Hospital/static/css/427.eec8cf0c.chunk.css.map",
-    "427.9d2e295b.chunk.js.map": "/pet_Hospital/static/js/427.9d2e295b.chunk.js.map",
+    "main.0ccc96f2.css.map": "/pet_Hospital/static/css/main.0ccc96f2.css.map",
+    "main.4330eef4.js.map": "/pet_Hospital/static/js/main.4330eef4.js.map",
+    "856.b802903a.chunk.css.map": "/pet_Hospital/static/css/856.b802903a.chunk.css.map",
+    "856.a815c984.chunk.js.map": "/pet_Hospital/static/js/856.a815c984.chunk.js.map",
     "818.1b4056f2.chunk.js.map": "/pet_Hospital/static/js/818.1b4056f2.chunk.js.map",
     "767.17ec2d34.chunk.js.map": "/pet_Hospital/static/js/767.17ec2d34.chunk.js.map",
     "72.82955225.chunk.js.map": "/pet_Hospital/static/js/72.82955225.chunk.js.map",
@@ -21,7 +21,7 @@
     "595.0b4d6f76.chunk.js.map": "/pet_Hospital/static/js/595.0b4d6f76.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31785657.css",
-    "static/js/main.7e573f06.js"
+    "static/css/main.0ccc96f2.css",
+    "static/js/main.4330eef4.js"
   ]
 }
