@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktestapp=self.webpackChunktestapp||[]).push([[72],{691:(e,t,s)=>{s.r(t),s.d(t,{default:()=>a});var n=s(579);const a=function(){return(0,n.jsx)("div",{className:"h-[500px] bg-teal-800 flex justify-center items-center font-bold text-white text-xl",children:"\uc8c4\uc1a1\ud569\ub2c8\ub2e4. \uc900\ube44 \uc911\uc778 \ud398\uc774\uc9c0 \uc785\ub2c8\ub2e4."})}}}]);
+//# sourceMappingURL=72.82955225.chunk.js.map
